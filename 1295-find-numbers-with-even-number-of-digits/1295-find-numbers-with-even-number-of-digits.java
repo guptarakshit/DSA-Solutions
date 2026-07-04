@@ -3,21 +3,22 @@ class Solution {
 
         int evenCount = 0;
 
-        
+        for (int i = 0; i < nums.length; i++) {
 
-        for(int i = 0; i < nums.length; i++){
-            ArrayList<Integer> individual = new ArrayList<>();
-            while(nums[i] > 0){
-                int num  = nums[i];
-                int a = nums[i] % 10;
-                nums[i] = num/10;
-                individual.add(a);
+            int num = nums[i];
+            int digitCount = 0;
+
+            while (num > 0) {
+                num = num / 10;
+                digitCount++;
             }
-            if (individual.size() % 2 == 0){
+
+            if (digitCount % 2 == 0) {
                 evenCount++;
             }
         }
+
         return evenCount;
-        
     }
 }
+    
