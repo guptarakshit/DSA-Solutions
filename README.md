@@ -9,6 +9,7 @@ Collection of my LeetCode solutions!
 | [0066-plus-one](https://github.com/guptarakshit/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptarakshit/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/guptarakshit/DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/guptarakshit/DSA-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/guptarakshit/DSA-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -36,4 +37,16 @@ Collection of my LeetCode solutions!
 | ------- | ------- |
 | [0066-plus-one](https://github.com/guptarakshit/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/guptarakshit/DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
