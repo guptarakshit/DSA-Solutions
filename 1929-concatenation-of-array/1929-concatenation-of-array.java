@@ -5,15 +5,10 @@ class Solution {
         int[] ans = new int[2*n];
 
 
-        for(int i = 0; i < 2*n ; i++){
+        for(int i = 0; i < n ; i++){
 
-            if(i < n){
-                ans[i] = nums[i];
-            }
-            else{
-                ans[i] = nums[i - n];
-            }
-
+            ans[i] = nums[i];
+            ans[i + n] = nums[i];
         }
 
         return ans;
