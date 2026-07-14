@@ -12,6 +12,7 @@ Collection of my LeetCode solutions!
 | [0035-search-insert-position](https://github.com/guptarakshit/DSA-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/guptarakshit/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptarakshit/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/guptarakshit/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/guptarakshit/DSA-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -37,6 +38,7 @@ Collection of my LeetCode solutions!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/guptarakshit/DSA-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptarakshit/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/guptarakshit/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/guptarakshit/DSA-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -50,6 +52,7 @@ Collection of my LeetCode solutions!
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -76,4 +79,12 @@ Collection of my LeetCode solutions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/guptarakshit/DSA-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
