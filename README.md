@@ -37,6 +37,7 @@ Collection of my LeetCode solutions!
 | [0033-search-in-rotated-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/guptarakshit/DSA-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/guptarakshit/DSA-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptarakshit/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/guptarakshit/DSA-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -59,6 +60,7 @@ Collection of my LeetCode solutions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/guptarakshit/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/guptarakshit/DSA-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/guptarakshit/DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
