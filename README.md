@@ -11,6 +11,7 @@ Collection of my LeetCode solutions!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/guptarakshit/DSA-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/guptarakshit/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
+| [0162-find-peak-element](https://github.com/guptarakshit/DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptarakshit/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/guptarakshit/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
@@ -38,6 +39,7 @@ Collection of my LeetCode solutions!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/guptarakshit/DSA-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/guptarakshit/DSA-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0162-find-peak-element](https://github.com/guptarakshit/DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptarakshit/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/guptarakshit/DSA-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/guptarakshit/DSA-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
