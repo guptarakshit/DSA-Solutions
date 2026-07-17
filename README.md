@@ -14,6 +14,7 @@ Collection of my LeetCode solutions!
 | [0162-find-peak-element](https://github.com/guptarakshit/DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptarakshit/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/guptarakshit/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/guptarakshit/DSA-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -44,6 +45,7 @@ Collection of my LeetCode solutions!
 | [0278-first-bad-version](https://github.com/guptarakshit/DSA-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/guptarakshit/DSA-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0540-single-element-in-a-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/guptarakshit/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/guptarakshit/DSA-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
