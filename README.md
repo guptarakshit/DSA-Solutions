@@ -26,6 +26,7 @@ Collection of my LeetCode solutions!
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptarakshit/DSA-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/guptarakshit/DSA-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1470-shuffle-the-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/guptarakshit/DSA-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/guptarakshit/DSA-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
