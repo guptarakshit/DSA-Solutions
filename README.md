@@ -20,6 +20,7 @@ Collection of my LeetCode solutions!
 | [0410-split-array-largest-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/guptarakshit/DSA-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0645-set-mismatch](https://github.com/guptarakshit/DSA-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/guptarakshit/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/guptarakshit/DSA-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -81,12 +82,14 @@ Collection of my LeetCode solutions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0645-set-mismatch](https://github.com/guptarakshit/DSA-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptarakshit/DSA-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/guptarakshit/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0645-set-mismatch](https://github.com/guptarakshit/DSA-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptarakshit/DSA-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -117,4 +120,8 @@ Collection of my LeetCode solutions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/guptarakshit/DSA-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0645-set-mismatch](https://github.com/guptarakshit/DSA-Solutions/tree/main/0645-set-mismatch/) | Easy |
 <!---LeetCode Topics End-->
