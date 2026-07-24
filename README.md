@@ -13,6 +13,7 @@ Collection of my LeetCode solutions!
 | [0066-plus-one](https://github.com/guptarakshit/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/guptarakshit/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/guptarakshit/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/guptarakshit/DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptarakshit/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -40,6 +41,7 @@ Collection of my LeetCode solutions!
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/guptarakshit/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptarakshit/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptarakshit/DSA-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Binary Search
@@ -91,6 +93,7 @@ Collection of my LeetCode solutions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/guptarakshit/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0645-set-mismatch](https://github.com/guptarakshit/DSA-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptarakshit/DSA-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
