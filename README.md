@@ -81,6 +81,7 @@ Collection of my LeetCode solutions!
 | [0066-plus-one](https://github.com/guptarakshit/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/guptarakshit/DSA-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/guptarakshit/DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/guptarakshit/DSA-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@ Collection of my LeetCode solutions!
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptarakshit/DSA-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/guptarakshit/DSA-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
