@@ -19,6 +19,7 @@ Collection of my LeetCode solutions!
 | [0162-find-peak-element](https://github.com/guptarakshit/DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptarakshit/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/guptarakshit/DSA-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/guptarakshit/DSA-Solutions/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -61,6 +62,7 @@ Collection of my LeetCode solutions!
 | [0162-find-peak-element](https://github.com/guptarakshit/DSA-Solutions/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptarakshit/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/guptarakshit/DSA-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0268-missing-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0278-first-bad-version](https://github.com/guptarakshit/DSA-Solutions/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/guptarakshit/DSA-Solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -85,6 +87,7 @@ Collection of my LeetCode solutions!
 | ------- | ------- |
 | [0066-plus-one](https://github.com/guptarakshit/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/guptarakshit/DSA-Solutions/tree/main/0069-sqrtx/) | Easy |
+| [0268-missing-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptarakshit/DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/guptarakshit/DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/guptarakshit/DSA-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -92,6 +95,7 @@ Collection of my LeetCode solutions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0268-missing-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/guptarakshit/DSA-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptarakshit/DSA-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -101,6 +105,7 @@ Collection of my LeetCode solutions!
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/guptarakshit/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0268-missing-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptarakshit/DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/guptarakshit/DSA-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -141,6 +146,7 @@ Collection of my LeetCode solutions!
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/guptarakshit/DSA-Solutions/tree/main/0645-set-mismatch/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
