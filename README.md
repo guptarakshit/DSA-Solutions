@@ -10,6 +10,7 @@ Collection of my LeetCode solutions!
 | [0033-search-in-rotated-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/guptarakshit/DSA-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/guptarakshit/DSA-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0055-jump-game](https://github.com/guptarakshit/DSA-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/guptarakshit/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/guptarakshit/DSA-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -99,6 +100,7 @@ Collection of my LeetCode solutions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/guptarakshit/DSA-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0268-missing-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
