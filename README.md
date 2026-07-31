@@ -33,6 +33,7 @@ Collection of my LeetCode solutions!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/guptarakshit/DSA-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/guptarakshit/DSA-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/guptarakshit/DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptarakshit/DSA-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -117,6 +118,7 @@ Collection of my LeetCode solutions!
 | [0628-maximum-product-of-three-numbers](https://github.com/guptarakshit/DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/guptarakshit/DSA-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1051-height-checker](https://github.com/guptarakshit/DSA-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptarakshit/DSA-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -125,6 +127,7 @@ Collection of my LeetCode solutions!
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1051-height-checker](https://github.com/guptarakshit/DSA-Solutions/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
