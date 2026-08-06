@@ -101,6 +101,7 @@ Collection of my LeetCode solutions!
 | [0628-maximum-product-of-three-numbers](https://github.com/guptarakshit/DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0754-reach-a-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0754-reach-a-number/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/guptarakshit/DSA-Solutions/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/guptarakshit/DSA-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/guptarakshit/DSA-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -186,4 +187,8 @@ Collection of my LeetCode solutions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/guptarakshit/DSA-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
