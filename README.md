@@ -54,6 +54,7 @@ Collection of my LeetCode solutions!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/guptarakshit/DSA-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/guptarakshit/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptarakshit/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -182,6 +183,7 @@ Collection of my LeetCode solutions!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/guptarakshit/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0179-largest-number/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
