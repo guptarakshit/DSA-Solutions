@@ -185,6 +185,7 @@ Collection of my LeetCode solutions!
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/guptarakshit/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0179-largest-number/) | Medium |
+| [1108-defanging-an-ip-address](https://github.com/guptarakshit/DSA-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
