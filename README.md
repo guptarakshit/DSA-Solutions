@@ -86,6 +86,7 @@ Collection of my LeetCode solutions!
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/guptarakshit/DSA-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/guptarakshit/DSA-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
@@ -96,6 +97,7 @@ Collection of my LeetCode solutions!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/guptarakshit/DSA-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0066-plus-one](https://github.com/guptarakshit/DSA-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/guptarakshit/DSA-Solutions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
@@ -183,6 +185,7 @@ Collection of my LeetCode solutions!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/guptarakshit/DSA-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0125-valid-palindrome](https://github.com/guptarakshit/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0179-largest-number/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/guptarakshit/DSA-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
