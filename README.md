@@ -34,6 +34,7 @@ Collection of my LeetCode solutions!
 | [0645-set-mismatch](https://github.com/guptarakshit/DSA-Solutions/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/guptarakshit/DSA-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/guptarakshit/DSA-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0848-shifting-letters](https://github.com/guptarakshit/DSA-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/guptarakshit/DSA-Solutions/tree/main/1051-height-checker/) | Easy |
@@ -93,6 +94,7 @@ Collection of my LeetCode solutions!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0848-shifting-letters](https://github.com/guptarakshit/DSA-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -188,6 +190,7 @@ Collection of my LeetCode solutions!
 | [0043-multiply-strings](https://github.com/guptarakshit/DSA-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0125-valid-palindrome](https://github.com/guptarakshit/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0179-largest-number/) | Medium |
+| [0848-shifting-letters](https://github.com/guptarakshit/DSA-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/guptarakshit/DSA-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/guptarakshit/DSA-Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
 ## Quickselect
