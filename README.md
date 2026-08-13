@@ -114,6 +114,7 @@ Collection of my LeetCode solutions!
 | [0001-two-sum](https://github.com/guptarakshit/DSA-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/guptarakshit/DSA-Solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0169-majority-element](https://github.com/guptarakshit/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/guptarakshit/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -128,6 +129,7 @@ Collection of my LeetCode solutions!
 | [0169-majority-element](https://github.com/guptarakshit/DSA-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0242-valid-anagram](https://github.com/guptarakshit/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/guptarakshit/DSA-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -190,6 +192,7 @@ Collection of my LeetCode solutions!
 | [0043-multiply-strings](https://github.com/guptarakshit/DSA-Solutions/tree/main/0043-multiply-strings/) | Medium |
 | [0125-valid-palindrome](https://github.com/guptarakshit/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0179-largest-number/) | Medium |
+| [0242-valid-anagram](https://github.com/guptarakshit/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0848-shifting-letters](https://github.com/guptarakshit/DSA-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/guptarakshit/DSA-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/guptarakshit/DSA-Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
