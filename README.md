@@ -196,6 +196,7 @@ Collection of my LeetCode solutions!
 | [0179-largest-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/guptarakshit/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/guptarakshit/DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0709-to-lower-case](https://github.com/guptarakshit/DSA-Solutions/tree/main/0709-to-lower-case/) | Easy |
 | [0848-shifting-letters](https://github.com/guptarakshit/DSA-Solutions/tree/main/0848-shifting-letters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/guptarakshit/DSA-Solutions/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/guptarakshit/DSA-Solutions/tree/main/1678-goal-parser-interpretation/) | Easy |
