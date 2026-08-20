@@ -58,6 +58,7 @@ Collection of my LeetCode solutions!
 | [0125-valid-palindrome](https://github.com/guptarakshit/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/guptarakshit/DSA-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/guptarakshit/DSA-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/guptarakshit/DSA-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/guptarakshit/DSA-Solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/guptarakshit/DSA-Solutions/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -198,6 +199,7 @@ Collection of my LeetCode solutions!
 | [0125-valid-palindrome](https://github.com/guptarakshit/DSA-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/guptarakshit/DSA-Solutions/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/guptarakshit/DSA-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/guptarakshit/DSA-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/guptarakshit/DSA-Solutions/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/guptarakshit/DSA-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/guptarakshit/DSA-Solutions/tree/main/0412-fizz-buzz/) | Easy |
